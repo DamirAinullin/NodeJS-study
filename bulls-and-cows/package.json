@@ -1,0 +1,25 @@
+{
+	"name": "bulls-and-cows",
+	"version": "1.0.0",
+	"description": "For study purposes",
+	"main": "bin/bullsAndCows.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DamirAinullin/NodeJS-study.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/DamirAinullin/NodeJS-study/issues"
+	},
+	"bin": {
+		"bulls-and-cows": "./bin/bullsAndCows.js"
+	},
+	"homepage": "https://github.com/DamirAinullin/NodeJS-study#readme",
+	"dependencies": {
+		"readline-sync": "^1.4.10"
+	}
+}
